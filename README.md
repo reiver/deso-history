@@ -19,7 +19,7 @@ Bitcoin is also the original inspiration for Ethereum, all other cryptocurrencie
 
 # Year 2001
 
-July 2001
+July 2001 (2001-07)
 —
 **BitTorrent** peer-to-peer (P2P) protocol (and software) released.
 BitTorrent is _not_ social-media, but was part of the broader peer-to-peer (P2P) scene.
@@ -32,6 +32,13 @@ Early 2001
 # Year 2000
 
 The **gnutella** peer-to-peer (P2P) protocol is created.
+
+# Year 1997
+
+October, 1997 (1997-10)
+—
+**Slashdot** social news website created.
+Slashdot's comment section was an early example a type of social-media that existed during that early era of the Web.
 
 # Year 1978
 
