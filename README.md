@@ -40,6 +40,14 @@ October, 1997 (1997-10)
 **Slashdot** social news website created.
 Slashdot's comment section was an early example a type of social-media that existed during that early era of the Web.
 
+# Year 1985
+
+Circa 1985
+—
+**Cypherpunk movement** starts to gain traction.
+_Cypherpunks_ advocated for the widespread use of **cryptography** and **privacy-enhancing** technologies.
+Often for the purpose of effecting social and political change.
+
 # Year 1978
 
 November, 1978 (1979-11) — Byte (magazine) — "Hobbyist Computerized Bulletin Board"
