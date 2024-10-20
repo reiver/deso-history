@@ -7,5 +7,7 @@ This document contains history relevant to **decentralized social-media** (**DeS
 
 # 1971
 
-* **finger-protocol** (and `finger` program) created.
+The **finger-protocol** (and `finger` program) was created.
+Although _finger_ was NOT designed to be technology for social-media, people eventually used it as social-media.
+(Although the label "social-media" wasn't in use at the time.)
 
