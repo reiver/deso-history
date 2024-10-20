@@ -42,10 +42,14 @@ Early 2001
 
 # Year 2000
 
+2000
+—
 The **gnutella** peer-to-peer (P2P) protocol is created.
 
 # Year 1999
 
+1999
+—
 **Kuro5hin** social news website created.
 Kuro5hin was inspired by _Slashdot_.
 Slashdot's social-media largely happened in the comment section of its posts.
