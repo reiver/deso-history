@@ -11,6 +11,12 @@ This history is in reverse-chronological order — with the _newest_ stuff _firs
 **Yahoo! Groups**, free hosted **mailing-lists** and **web-forums**, shut-down by Yahoo!
 Yahoo! did not give people or organizations a chance to archive it — thus a lot of Internet history was lost.
 
+# Year 2009
+
+Bitcoin was launch.
+Bitcoin is _not_ social-media, but was part of the broader peer-to-peer (P2P) scene.
+Bitcoin is also the original inspiration for Ethereum, all other cryptocurrencies, etc.
+
 # Year 2001
 
 **Yahoo! Groups**, free hosted **mailing-lists** and **web-forums**, created by Yahoo!
