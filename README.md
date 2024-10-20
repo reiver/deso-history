@@ -3,3 +3,9 @@
 This document contains history relevant to **decentralized social-media** (**DeSo**).
 
 ("DeSo" is an abbreviation for "decentralized social media".)
+
+
+# 1971
+
+* **finger-protocol** (and `finger` program) created.
+
