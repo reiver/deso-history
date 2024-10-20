@@ -11,6 +11,11 @@ This history is in reverse-chronological order — with the _newest_ stuff _firs
 **Yahoo! Groups**, free hosted **mailing-lists** and **web-forums**, shut-down by Yahoo!
 Yahoo! did not give people or organizations a chance to archive it — thus a lot of Internet history was lost.
 
+# Year 2001
+
+**Yahoo! Groups**, free hosted **mailing-lists** and **web-forums**, created by Yahoo!
+**Mailing-Lists** and **Web-Forums** were already very popular forms of social-media — thus Yahoo! was just following a trend.
+
 # Year 2000
 
 The **gnutella** peer-to-peer (P2P) protocol is created.
