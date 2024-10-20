@@ -6,13 +6,24 @@ This document contains history relevant to **decentralized social-media** (**DeS
 
 This history is in reverse-chronological order — with the _newest_ stuff _first_, and the _oldest_ stuff _last_.
 
+# Year 2024
+
+May, 2024 (2024-05)
+—
+**Farcaster** raise $150M at a $1B valuation
+<sup><a href="https://techcrunch.com/2024/05/21/farcaster-a-crypto-based-social-network-raised-150m-with-just-80k-daily-users/">⤤</a></sup>
+
 # Year 2020
 
+December, 2020 (2020-12)
+—
 **Yahoo! Groups**, free hosted **mailing-lists** and **web-forums**, shut-down by Yahoo!
 Yahoo! did not give people or organizations a chance to archive it — thus a lot of Internet history was lost.
 
 # Year 2009
 
+January, 2009 (2009-01)
+—
 Bitcoin was launch.
 Bitcoin is _not_ social-media, but was part of the broader peer-to-peer (P2P) scene.
 Bitcoin is also the original inspiration for Ethereum, all other cryptocurrencies, etc.
