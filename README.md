@@ -37,7 +37,10 @@ The **gnutella** peer-to-peer (P2P) protocol is created.
 
 **Kuro5hin** social news website created.
 Kuro5hin was inspired by _Slashdot_.
-Kuro5hin's creation was partially motivated by what many people felt 
+Slashdot's social-media largely happened in the comment section of its posts.
+As Slashdot became more popular, it attracted A LOT more users, and A LOT more comments (to posts) and — many seemed to feel that of the most of the comments had become qualitatively different from those of early-Slashdot.
+Many seemed to feel that this change was _for the worse_.
+Kuro5hin's creation was partially motivated by this — as a way to increase _quality_.
 
 # Year 1997
 
