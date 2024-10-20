@@ -6,6 +6,10 @@ This document contains history relevant to **decentralized social-media** (**DeS
 
 This history is in reverse-chronological order — with the _newest_ stuff _first_, and the _oldest_ stuff _last_.
 
+# Year 2000
+
+The **gnutella** peer-to-peer (P2P) protocol is created.
+
 # Year 1978
 
 November, 1978 (1979-11) — Byte (magazine) — "Hobbyist Computerized Bulletin Board"
