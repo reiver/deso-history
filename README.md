@@ -1,1 +1,1 @@
-# deso-history
+# History of Decentralized Social Media
