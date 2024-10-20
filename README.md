@@ -19,6 +19,13 @@ Bitcoin is also the original inspiration for Ethereum, all other cryptocurrencie
 
 # Year 2001
 
+July 2001
+—
+**BitTorrent** peer-to-peer (P2P) protocol (and software) released.
+BitTorrent is _not_ social-media, but was part of the broader peer-to-peer (P2P) scene.
+
+Early 2001
+—
 **Yahoo! Groups**, free hosted **mailing-lists** and **web-forums**, created by Yahoo!
 **Mailing-Lists** and **Web-Forums** were already very popular forms of social-media — thus Yahoo! was just following a trend.
 
