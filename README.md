@@ -13,7 +13,12 @@ May, 2024 (2024-05)
 **Farcaster** raise $150M at a $1B valuation
 <sup><a href="https://techcrunch.com/2024/05/21/farcaster-a-crypto-based-social-network-raised-150m-with-just-80k-daily-users/">⤤</a></sup>
 
-January, 2024
+February, 2024 (2024-02)
+—
+**Farcaster** daily-active-users (DAU) increase by by 500% after launch of **Farcaster Frames**
+<sup><a href="https://unchainedcrypto.com/farcasters-user-base-skyrockets-nearly-500-after-frames-launch/">⤤</a></sup>
+
+January, 2024 (2024-01)
 —
 **Farcaster** releases **Farcaster Frames**.
 **Farcaster Frames** are a way of embedding 3rd party content, in the form of mini-applications, into posts.
