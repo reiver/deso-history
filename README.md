@@ -33,6 +33,12 @@ Early 2001
 
 The **gnutella** peer-to-peer (P2P) protocol is created.
 
+# Year 1999
+
+**Kuro5hin** social news website created.
+Kuro5hin was inspired by _Slashdot_.
+Kuro5hin's creation was partially motivated by what many people felt 
+
 # Year 1997
 
 October, 1997 (1997-10)
@@ -59,5 +65,9 @@ First known **computerized bulletin board system** (**CBBS**) goes online.
 
 # Year 1971
 
+1971
+—
 The **finger-protocol** (and `finger` program) was created.
 Although _finger_ was NOT designed to be technology for social-media (and was _not_ used as a social-media technology in the 1970s), people eventually used it as social-media.
+This (social-media usage of _finger_) was popular in the 1990s.
+But, as the Web became popular in the mid- to late 1990s, this usage of _finger_ was replaced by personal web-sites, and the _ad hoc_ and _informal_ social-networks that were creating with it (via linking).
