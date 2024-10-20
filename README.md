@@ -6,6 +6,11 @@ This document contains history relevant to **decentralized social-media** (**DeS
 
 This history is in reverse-chronological order — with the _newest_ stuff _first_, and the _oldest_ stuff _last_.
 
+# Year 2020
+
+**Yahoo! Groups**, free hosted **mailing-lists** and **web-forums**, shut-down by Yahoo!
+Yahoo! did not give people or organizations a chance to archive it — thus a lot of Internet history was lost.
+
 # Year 2000
 
 The **gnutella** peer-to-peer (P2P) protocol is created.
